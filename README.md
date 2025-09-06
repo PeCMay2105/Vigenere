@@ -4,7 +4,6 @@ Código para o trabalho de Segurança Computacional sobre cifra de Vigenére
 ---
 Integrantes do grupo: Pedro Maia, Gustavo Alencar, Ricardo
 ## Como rodar:
-Após baixar a pasta e descompactar o zip:
 ```bash
 git clone PeCMay2105/Vigenere
 
